@@ -17,7 +17,6 @@
   <img align="center" alt="brenda-Rstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
    <img align="center" alt="brenda-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
    <img align="center" alt="brenda-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-   <img align="right" alt="Brenda-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1080588468301877271/1080588642709405796/download20230303172327.png?width=426&height=426">
 </div>
 
  ##
