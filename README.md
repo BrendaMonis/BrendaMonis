@@ -1,8 +1,9 @@
 ### Hello, I'm Brenda Monis 👩🏻‍💻
 
-- 🌱 I’m an undergraduate student in Agronomic Engineering at ESALQ/USP;
-- 🧬 I’m currently doing scientific initiation in the Statistical Genetics laboratory with Prof. Dr. Antonio Augusto F. Garcia;
-- 📊 I’m currently working on developing a software that performs genetic and statistical analysis.
+- 🎓 PhD student at the University of Georgia (UGA), part of the Animal Breeding and Genetics Group, under the supervision of Professor Daniela Lourenco;
+- 🌱 Graduated in Agronomic Engineering from the Luiz de Queiroz College of Agriculture at the University of São Paulo (ESALQ/USP);
+- 🧬 Conducted Scientific Initiation at the Statistical Genetics Laboratory (StatGen) under the guidance of Prof. Dr. Antonio Augusto Franco Garcia;
+- 🌾 Former member of the "Genetics and Plant Breeding Group 'Prof. Roland Vencovsky'" (GVENCK) at ESALQ/USP.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendaMonis&show_icons=true&theme=radical)
 
